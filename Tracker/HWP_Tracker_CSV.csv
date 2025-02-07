@@ -1,0 +1,8 @@
+HWP Report:,,,,,,,,
+,Carbon stock calculation,Domestic fraction incl,Default values,Initial carbon stock,Initial Year Data,Data,Verified,Comments
+Norway,Uses previous year inflow to calculate current year stock,No,Yes (but mixed up in CRF),average inflow  divided by 5,1961,FAO,Y,
+Austria,Uses current year inflow to calculate current year stock,Yes,Yes,0,1900,FAO - Years 2019 to 2021 the data from the Joint Forest Sector Questionnaire,N,Almost matching
+Sweden,,,,,,Swedish Data,,
+Spain,,,,,,,,
+Portugal,,,,,,,,
+Poland,,,,,,FAO,,
